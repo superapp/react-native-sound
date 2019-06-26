@@ -23,6 +23,7 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
 import java.io.IOException;
+import java.util.regex.Pattern;
 
 import android.util.Log;
 
